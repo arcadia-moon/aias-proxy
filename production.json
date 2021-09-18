@@ -1,0 +1,12 @@
+{
+    "apps": [
+      {
+        "name": "AIAS-PROXY",
+        "script": "index.js",
+        "watch": false,
+        "exec_mode": "fork",
+        "instances": 1,
+        "time": true
+      }
+    ]
+  }
